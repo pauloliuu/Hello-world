@@ -1,3 +1,3 @@
 # Hello-world
 my first
-maçã, laranja, feijão
+maçã, laranja, abacate
